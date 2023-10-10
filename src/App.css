@@ -1,0 +1,16 @@
+#root {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center; 
+  border: none;
+  border-radius: 15px;
+  background-color: rgb(241, 249, 204);
+  box-shadow: 1px 1px 5px 2px gray;
+  margin-top: 10rem;
+} 
+
+body{
+  background-image: linear-gradient(to right, rgb(244, 166, 251) , rgb(171, 255, 184));
+} 
+
